@@ -1,18 +1,17 @@
-# Nome do projeto
+#  Implementação de Redes Neurais para Análise de Sentimentos em Redes Sociais
 
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo deste projeto é implementar redes neurais para realizar a análise de sentimentos em redes sociais. Utilizando técnicas de processamento de linguagem natural (NLP) e aprendizado profundo, o projeto visa classificar automaticamente os sentimentos expressos em textos postados nas plataformas sociais, como positivo, negativo ou neutro. Essa análise pode ser útil para entender a percepção pública em relação a produtos, eventos ou outras temáticas, auxiliando empresas e organizações a tomar decisões baseadas no comportamento do usuário.
+
+A implementação se concentrará no uso de redes neurais profundas, como LSTMs ou redes neurais convolucionais (CNNs), que são adequadas para capturar as relações sequenciais entre palavras e padrões de texto. Além disso, o projeto abordará a coleta de dados, pré-processamento dos textos e a avaliação da acurácia do modelo, fornecendo uma visão abrangente do desempenho da rede neural em diferentes cenários de aplicação real.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
+* Diego Moreira Rocha
+* Luan Barbosa Rosa
 
 ## Professores responsáveis
 
-* Nome do professor 1
-* Nome do professor 2
-* Nome do professor 3
-* Nome do professor 3
+* Leonardo Vilela Cardoso
 
 ## Instruções de Replicação/Reprodução
 
